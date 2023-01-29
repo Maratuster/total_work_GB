@@ -17,7 +17,6 @@ string[] GetThreeDigitWords(string[] array)
             i++;
         }
     }
-
     return newArray;
 }
 
