@@ -9,4 +9,6 @@
 * 5 - пользователю выводится в консоль элементы массивов **testText** и **testText2**.
 
 ## Блок-схема работы кода:
-![Текст с описанием карти](./img/diagram.png)
+![Для просмотре диаграмы пройдите по ссылке:](./img/diagram.png)  
+[Блок-схема на drawio](https://app.diagrams.net/#G1ZQFXBkWx_5RnZA6Ql_plwRe1fNjwqb1_)
+
